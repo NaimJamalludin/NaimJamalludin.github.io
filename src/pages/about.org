@@ -1,0 +1,10 @@
+#+TITLE: About Me
+#+DESCRIPTION: About me
+#+AUTHOR: Naim Jamalludin
+#+DATE: <2021-07-24 Sat>
+#+HTML_LINK_UP: .,/index.html
+#+HTML_LINK_HOME: ../index.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/style.css" />
+#+OPTIONS: num:nil toc:nil html-postamble:nil
+
+My name is Naim Jamalludin. I'm a software engineer based in Kuala Lumpur, Malaysia

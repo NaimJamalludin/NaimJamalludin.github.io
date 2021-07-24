@@ -1,0 +1,16 @@
+* Naim's Website
+
+This is my personal website. I'm using =emacs= and =org-mode= to create this
+website.
+
+** Publish guide
+
+To publish the website from =org-mode=, simply open your terminal and execute
+the following command
+
+#+begin_src bash
+  cd NaimJamalludin.github.io
+  make
+#+end_src
+
+This will create html files located in =public= folder.
