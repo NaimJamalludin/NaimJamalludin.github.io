@@ -3,6 +3,17 @@
 This is my personal website repository. I'm using =emacs= and =org-mode= to create this
 website.
 
+** Installation guide
+
+For Windows operating system, it is recommended to have =cholocatey= package
+manager comes pre-install in the system before proceeding to the next step. If
+=cholocatey= package manager have already installed, execute the following
+command to install =GNU Make= application to simplify the publishing process.
+
+#+begin_src shell
+choco install make
+#+end_src
+
 ** Development guide
 
 To begin developing the website, you must first clone the repository by
