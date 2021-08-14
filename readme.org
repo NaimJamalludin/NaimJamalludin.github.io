@@ -14,6 +14,19 @@ command to install =GNU Make= application to simplify the publishing process.
 choco install make
 #+end_src
 
+It is also recommended to install =emacs= via =cholocatey= package manager by
+executing the command below. By doing so, I believe it will automatically add
+=emacs= command into Environment Variables.
+
+#+begin_src shell
+choco install emacs
+#+end_src
+
+However, if you install it manually or =chocolatey= package manager somehow
+skipped it, you must add the following path =C:\Program Files\Emacs\x86_64\bin=
+or similar path depending on the architecture chosen into User Variables under
+variable called path. This is required for Makefile to be executed successfully.
+
 ** Development guide
 
 To begin developing the website, you must first clone the repository by
