@@ -7,5 +7,5 @@
 
 * Welcome
 
-Hi! My name is Naim Jamalludin. I'm a software engineer based in Kuala
-Lumpur. For more information about myself, you can go to [[file:pages\about.org][About Me]].
+Hi! My name is Naim Jamalludin. Welcome to my website. For more information
+about myself, you can go to [[file:pages\about.org][About Me]].
