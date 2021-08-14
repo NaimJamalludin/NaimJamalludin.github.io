@@ -26,6 +26,8 @@ However, if you install it manually or =chocolatey= package manager somehow
 skipped it, you must add the following path =C:\Program Files\Emacs\x86_64\bin=
 or similar path depending on the architecture chosen into User Variables under
 variable called path. This is required for Makefile to be executed successfully.
+Make sure to close any terminal session after setting up the Environment
+Variable.
 
 ** Development guide
 
